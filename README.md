@@ -7,6 +7,7 @@
 2. [OCI Environment Setup](oci-infrastructure-setup.md)
 3. [Setup OCI Data Science Service](setup-oci-data-science-service.md)
 4. [OCI AI/ML Services](setup-oci-ai-service.md)
+   - [Learn More](https://www.oracle.com/artificial-intelligence/ai-services/)
 
 
 ### OCI AI/ML Services Usecases
