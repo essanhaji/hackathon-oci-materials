@@ -1,11 +1,13 @@
 # Hackathon OCI Materials
 
+
 ### OCI Setup Guidelines
 1. [Introduction to Oracle Cloud Infrastructure (OCI) and Account creation](create-oci-account.md)
    - For more details check [Oracle Academy Cloud Program](oracle-academy-cloud-program.pdf)
-2. [OCI Infrastructure Setup](oci-infrastructure-setup.md)
+2. [OCI Environment Setup](oci-infrastructure-setup.md)
 3. [Setup OCI Data Science Service](setup-oci-data-science-service.md)
 4. [OCI AI/ML Services](setup-oci-ai-service.md)
+
 
 ### OCI AI/ML Services Usecases
 - [Creating LLM powered applications using OCI Generative AI](https://www.ateam-oracle.com/post/creating-ai-applications-using-oci-generative-ai)
