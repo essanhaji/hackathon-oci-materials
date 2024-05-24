@@ -14,3 +14,7 @@
 - [Automated Business Document Processing using OCI Vision ](https://www.ateam-oracle.com/post/automated-business-documents-using-oci-vision)
 - [A Simple Guide to Connecting ODA Custom Component](https://www.ateam-oracle.com/post/a-simple-guide-to-connecting-oda-custom-component-to-on-prem-apis)
 - [OCI Generative AI Integration with LangChain Use Cases](https://www.ateam-oracle.com/post/oci-generative-ai-integration-with-langchain-usecases)
+
+
+### Datasets
+- [Healthcare Datasets](healthcare-datasets.md)
